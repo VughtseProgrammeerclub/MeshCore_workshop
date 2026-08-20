@@ -1,2 +1,2 @@
-# MeshCore_workshop
+# MeshCore workshop
 Basiscursus MeshCore
