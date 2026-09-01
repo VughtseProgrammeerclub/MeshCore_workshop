@@ -20,7 +20,9 @@ Er is sindskort een Heltec V4 board. Koop je dat voor deze workshop dan kan het 
 Alle documentatie en downloads voor de workshops zijn voor V3. 
 We hebben wel getest met v4 en deze kan wel gebruikt worden voor de workshop/
 
+
 ##Waarschuwingen 
+----------------
 Zet NOOIT spanning op het Heltec board als de externe antenne niet aangesloten is. 
 Doe je dat wel, dan is de kans groot dat je de LORA chip opblaast.
 
