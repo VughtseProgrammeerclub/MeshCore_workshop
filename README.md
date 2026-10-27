@@ -10,6 +10,14 @@ Minimaal
 1x USB-C datakabel (zorg dat het echt een goede datakabel is)
 1x Heltec Wi-Fi LoRa 32 V3 - ESP32-S3 - SX1262 868MHz  € 21,00 
 
+Apps
+----
+Android:
+https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android&pcampaignid=web_share
+
+IOS:
+https://apps.apple.com/us/app/meshcore/id6742354151
+
 Advies
 -------
 Bestel een extra Heltec board als je naast de workshops ook thuis gaat experimenteren.  Daarvoor heb je minimaal 2 boards nodig.
