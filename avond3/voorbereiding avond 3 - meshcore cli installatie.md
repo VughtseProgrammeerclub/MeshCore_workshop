@@ -8,6 +8,7 @@ Snelstartgids: https://github.com/VughtseProgrammeerclub/MeshCore_workshop/blob/
 Download en install python: [https://www.python.org/](https://www.python.org/) 
 
 Kies de python install manager als je nieuw bent met python. (zoniet, dan weet je zelf het beste hoe jouw Python omgeving eruit ziet)
+En installeer python.
 
 Maak een virtuele omgeving voor Meshcore testen:
 
