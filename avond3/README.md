@@ -19,7 +19,7 @@ cmd.exe :
 - cd meshcore-cli
 - Scripts\\activate.bat
 - pip install meshcore-cli
-- testen met: meshcli -V
+- testen met: meshcli -v
 
 Krijg je iets terug als "meshcore-cli: command line interface to MeshCore companion radios v1.6.9" dan ben je klaar voor de workshop van avond 3.
 
