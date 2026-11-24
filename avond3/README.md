@@ -5,6 +5,8 @@ Maar als je nu een andere (Windows) laptop meebrengt, gebruik dan de snelstartgi
 
 Snelstartgids: https://github.com/VughtseProgrammeerclub/MeshCore_workshop/blob/main/Snelstartgids%20MeshCore%20v01092026.pdf
 
+=====NIEUW=====
+
 Download en install python: [https://www.python.org/](https://www.python.org/) 
 
 Kies de python install manager als je nieuw bent met python. (zoniet, dan weet je zelf het beste hoe jouw Python omgeving eruit ziet)
